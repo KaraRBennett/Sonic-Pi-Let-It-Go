@@ -1,4 +1,6 @@
 # Sonic Pi: Let It Go
+**__Created and designed for educational purposes only.__**
+
 Let It Go from Frozen written in Sonic Pi
 
 Sonic Pi is available from https://sonic-pi.net
